@@ -87,5 +87,5 @@ tidydata <- melt(alldata, id = c("activity", "subject"), na.rm = TRUE)
 tidydata <- dcast(tidydata, subject + activity ~ variable, fun.aggregate = mean)
 
 # create tidy_data.txt with the tidy data set
-write.table(tidydata, file = "tidy_data.csv", sep = ",", col.names = TRUE )
+write.table(tidydata, file = "tidy_data.txt", row.names = FALSE, col.names = TRUE )
 
