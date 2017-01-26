@@ -1,11 +1,17 @@
 ## Analysis information 
-Download the data
-read the data in
-merge the data
-clean the data
-add the attribute / column names
-aggregate the data
-write the output data
+1. Download the data
+
+2. read the data in
+
+3. merge the data
+
+4. clean the data
+
+5. add the attribute / column names
+
+6. aggregate the data
+
+7. write the output data
 
 
 ## Data set information - Tidy Data - Wearable Technology
