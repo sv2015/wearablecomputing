@@ -1,3 +1,13 @@
+## Analysis information 
+Download the data
+read the data in
+merge the data
+clean the data
+add the attribute / column names
+aggregate the data
+write the output data
+
+
 ## Data set information - Tidy Data - Wearable Technology
 
 subject                        : int  1 .. 30
